@@ -392,7 +392,7 @@ body.no-scroll {
   .activity-img {
     width: 300px;
     height: 150px;}}
-/* fotter */
+/* footer */
 footer {
   background: #024caa;
   background: url(img/home.jpg);
@@ -414,7 +414,7 @@ footer {
   font-size: 1.2rem;
   color: #ce7e1c;
 }
-.fotter-photography{
+.footer-photography{
   font-size: 1.2rem;
   font-weight: bold;
 }
